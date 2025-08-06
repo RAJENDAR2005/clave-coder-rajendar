@@ -1,0 +1,44 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </head>
+    <body>
+         <div class="container">
+        <h1>Welcome to My Page</h1>
+        <p>This is a simple HTML page with some CSS styling.</p>
+    
+        <body>
+    </html>
+    <title>netflix clone basic  </title>
+      <body>
+        <header>
+       <h1>Welcome to My Page</h1>
+       </header>   
+       <main>
+        <section>class="intro">
+        <h2> about this page</h2>
+      <p>Netflix is a subscription-based streaming service that offers a wide variety of TV shows, movies, documentaries, and more on internet-connected devices. It allows users to watch content on demand for a monthly fee, with new content added regularly. Netflix's service is accessible on various devices, including smart TVs, gaming consoles, streaming media players, and computers. </p>
+      <section>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg" alt="Netflix Logo" width="200">
+        <section class="features">
+        <h2>Features</h2>
+        <ul>
+            <li>Unlimited streaming of movies and TV shows</li>
+            <li>Original content produced by Netflix</li>
+            <li>Multiple user profiles</li>-
+            <li>Offline viewing options</li>
+        </ul>
+        </section>
+       </main>
+       <footer>
+     <p> the netflix platform best for watching movies and series and cartons </p>
+       </footer>
+       <div>
+        
+        
+
+        
+      
