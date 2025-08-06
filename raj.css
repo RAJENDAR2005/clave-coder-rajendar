@@ -1,0 +1,46 @@
+.container{
+    height:160px;
+    width:300px;
+    background-color: green;
+    border-radius: 20px;
+    transform: skew(45deg);
+    rotate: 45deg;
+    animation: identifier 2s alternate infinite;
+    animation-timing-function:ease-in-out;
+}
+@keyframes identifier{
+  from{
+    transform: skew(0deg);
+    border-radius:50px;
+    background-color:green;
+  }
+  to{
+        transform: skew(90deg);
+        border-radius:50px;
+        background-color:green;
+        box-shadow:10px 10px 3px 
+        
+  }
+
+
+  }
+  .container2{
+    height: 160px;
+    width:300px;
+    background-color: black;
+    border-radius:20PX;
+    transform: skew(45deg); 
+    rotate:45deg;
+    animation: identifier 2s alternate infinite;
+    animation-timing-function:ease-in-out;
+  }
+
+     
+
+
+   
+    
+
+
+ 
+ 
